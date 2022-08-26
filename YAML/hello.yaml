@@ -1,0 +1,27 @@
+"apple" : "I am a red fruit"
+
+#lists
+
+---
+- apple
+- orange
+- banana
+
+# block style
+# docs separated by --- and ... for telling doc has ended.
+
+
+--- 
+cities : 
+ - new delhi
+ - mumbai
+ - gujrat
+
+---
+# flow type in one line
+cities : [new delhi,mumbai]
+
+---
+{mango: "yellow fruit", age: 21}
+
+...
